@@ -1,1 +1,4 @@
+# node_modules directory includes "minimist" which 
+# helps us accept arguments from the command line to
+# interact with our web server.
 node_modules/
