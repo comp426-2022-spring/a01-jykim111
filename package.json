@@ -1,6 +1,6 @@
 {
   "name": "my-own-private-web-server",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This package contains a very simple web server that takes one argument for port and then serves index.html in the www directory.",
   "main": "server.js",
   "scripts": {
