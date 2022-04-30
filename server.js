@@ -42,6 +42,5 @@ fs.readFile("./www/index.html", "utf8", (err, data) => {
     server.listen(port, () => {
         console.log(`Sever running at port ${port}`);
     })
-
     // That's it! You're all done!
 })
